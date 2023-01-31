@@ -9,4 +9,6 @@ Write any sentence, idk sir hehe :>
   
 ## Sample Code
 
+printf('hello world');
+
   
