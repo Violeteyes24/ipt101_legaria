@@ -9,10 +9,7 @@ Write any sentence, idk sir hehe :>
   
 ## Sample Code
 
-printf('hello world');
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```c
+printf("hello world");
 ```
+
