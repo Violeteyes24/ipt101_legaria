@@ -5,7 +5,7 @@ This is how you edit your readme file :)
 Write any sentence, idk sir hehe :>
 
 ## Authors
-   - @Violeteyes24
+   - @ Violeteyes24
   
 ## Sample Code
 
