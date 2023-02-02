@@ -13,3 +13,7 @@ Write any sentence, idk sir hehe :>
 printf("hello world");
 ```
 
+## How to install
+
+   - Step1: Download the zip file or use git clone
+
