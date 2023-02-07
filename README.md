@@ -16,4 +16,4 @@ printf("hello world");
 ## How to install
 
    - Step1: Download the zip file or use git clone
-
+ - Step 2: Watch Animes
