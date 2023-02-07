@@ -17,3 +17,4 @@ printf("hello world");
 
    - Step1: Download the zip file or use git clone
  - Step 2: Watch Animes
+ - Step 3: Ikaw nananana pwede bang mag pakilala
