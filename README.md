@@ -17,3 +17,8 @@ printf("hello world");
 
    - Step1: Download the zip file or use git clone
  - Step 2: Watch Animes
+
+## first branch 1st feature
+
+- bitches getting money all round the world cause girls are players too.
+- do you ever find yourself lost in the middle of the sea?
