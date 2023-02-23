@@ -23,10 +23,14 @@ printf("hello world");
 - bitches getting money all round the world cause girls are players too.
 - do you ever find yourself lost in the middle of the sea?
 
-##new-feature 1st commit
+## new-feature 1st commit
 - watashi no saigo wa anata ga e
 - after last night, after last night I think I'm in love with you
 
-##new-feature 2nd commit
+## new-feature 2nd commit
 - last Christmas I gave you my heart but the very next day, you gave it away.
 - in another life I will be your girl, we keep all the promises be us against the world.
+
+## new-feature 1st commit(revised)
+- namali akong name sa branch
+
