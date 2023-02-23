@@ -26,3 +26,7 @@ printf("hello world");
 ##new-feature 1st commit
 - watashi no saigo wa anata ga e
 - after last night, after last night I think I'm in love with you
+
+##new-feature 2nd commit
+- last Christmas I gave you my heart but the very next day, you gave it away.
+- in another life I will be your girl, we keep all the promises be us against the world.
