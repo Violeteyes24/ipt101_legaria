@@ -34,3 +34,6 @@ printf("hello world");
 ## new-feature 1st commit(revised)
 - namali akong name sa branch
 
+## new-feature 2nd commit(revised)
+- feel nako ika duha nani nga branch
+
