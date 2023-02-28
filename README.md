@@ -37,9 +37,7 @@ printf("hello world");
 ## new-feature 2nd commit(revised)
 - feel nako ika duha nani nga branch
 
-## new-feature prac 1st commit (feb28)
 
-## new-feature prac 2nd commit (feb28)
 
 
 
