@@ -2,7 +2,7 @@
 This is how you edit your readme file :)
 
 # SOLUTION CHALLENGE: 
-Write any sentence, idk sir hehe :>
+Rough Sketch of the Plan
 
 ## Authors
    - [@Violeteyes24](https://github.com/Violeteyes24)
