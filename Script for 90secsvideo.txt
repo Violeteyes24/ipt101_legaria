@@ -1,0 +1,24 @@
+Script for video:
+
+Intro
+
+- Solution name, 
+- where your team members are from 
+- a concise problem statement 
+- stating which Sustainable Develop Goals  you’re solving for in this project
+- and a high-level overview of your solution
+
+Body
+
+- navigate through the app 
+- search cities
+- pick one
+- pick a choice if hosp, police or fire dep.
+- look at the details
+- do it 3 times for each instance of hosp, police or fire dp. or as long as it takes 
+
+Conclusion
+
+- just end so it'll be <90s
+
+HelpConnect - GDSC Solution Challenge 2023

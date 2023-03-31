@@ -36,9 +36,11 @@ Rough Sketch of the Plan
 
 ## 6. Review
 - Error check
+- check git add*
 
 ## Sample Code
 
 ```c
 printf("hello world");
 ```
+
